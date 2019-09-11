@@ -1,0 +1,14 @@
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\bin\Debug\DAL.dll.config
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\bin\Debug\DAL.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\bin\Debug\DAL.pdb
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\bin\Debug\Entiades.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\bin\Debug\EntityFramework.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\bin\Debug\Entiades.pdb
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\bin\Debug\EntityFramework.xml
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\obj\Debug\DAL.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\DAL\obj\Debug\DAL.pdb

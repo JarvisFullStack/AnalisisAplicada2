@@ -17,7 +17,7 @@ namespace BLL
             _context = new Contexto();
         }
 
-        public bool Eliminar(int id)
+        public virtual bool Eliminar(int id)
         {
             bool ok = false;
             try
@@ -44,7 +44,7 @@ namespace BLL
             _context.Dispose();
         }
 
-        public T Buscar(int id)
+        public virtual T Buscar(int id)
         {
             T entity;
             try
@@ -59,7 +59,7 @@ namespace BLL
             return entity;
         }
 
-        public List<T> GetList(Expression<Func<T, bool>> expression)
+        public virtual List<T> GetList(Expression<Func<T, bool>> expression)
         {
             List<T> list = new List<T>();
             try

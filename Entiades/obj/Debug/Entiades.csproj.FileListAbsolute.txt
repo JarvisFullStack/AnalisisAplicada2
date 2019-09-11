@@ -1,0 +1,6 @@
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\Entiades\bin\Debug\Entiades.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\Entiades\bin\Debug\Entiades.pdb
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\Entiades\obj\Debug\Entiades.csprojAssemblyReference.cache
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\Entiades\obj\Debug\Entiades.csproj.CoreCompileInputs.cache
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\Entiades\obj\Debug\Entiades.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\Entiades\obj\Debug\Entiades.pdb

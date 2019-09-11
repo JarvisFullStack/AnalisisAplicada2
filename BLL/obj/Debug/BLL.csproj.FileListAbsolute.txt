@@ -1,0 +1,17 @@
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\BLL.dll.config
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\BLL.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\BLL.pdb
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\DAL.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\Entiades.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\EntityFramework.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\DAL.pdb
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\DAL.dll.config
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\Entiades.pdb
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\EntityFramework.xml
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\obj\Debug\BLL.dll
+C:\Users\darkarmy\source\repos\AnalisisAplicada2\BLL\obj\Debug\BLL.pdb
